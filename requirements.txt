@@ -1,2 +1,6 @@
 faster-than-light
 ftl-agent
+ftl_module_utils @ git+https://github.com/benthomasson/ftl_module_utils@main
+ftl-code-agent @ git+https://github.com/benthomasson/ftl-code-agent@main
+ftl-doc-agent @ git+https://github.com/benthomasson/ftl-doc-agent@main
+ftl-pytest-agent @ git+https://github.com/benthomasson/ftl-pytest-agent@main
