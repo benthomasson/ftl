@@ -1,5 +1,5 @@
-faster-than-light
-ftl-agent
+faster-than-light==0.1.7
+ftl-agent @ git+https://github.com/benthomasson/ftl-agent@main
 ftl_module_utils @ git+https://github.com/benthomasson/ftl_module_utils@main
 ftl-code-agent @ git+https://github.com/benthomasson/ftl-code-agent@main
 ftl-doc-agent @ git+https://github.com/benthomasson/ftl-doc-agent@main
