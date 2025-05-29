@@ -6,3 +6,4 @@ ftl-doc-agent @ git+https://github.com/benthomasson/ftl-doc-agent@main
 ftl-pytest-agent @ git+https://github.com/benthomasson/ftl-pytest-agent@main
 ftlagents @ git+https://github.com/benthomasson/ftlagents@main
 ftl-tools @ git+https://github.com/benthomasson/ftl-tools@main
+ftl-modules @ git+https://github.com/benthomasson/ftl-modules@main
